@@ -1,4 +1,4 @@
-# ergotreon
+# ERGOTREON
 is a simple crowdfunding platform built on the Ergo blockchain. This platform allows users to create and fund projects using the Ergo cryptocurrency.
 
 Requirements Node.js v14 or higher ErgoPay account Nautilus wallet
