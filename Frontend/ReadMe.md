@@ -5,26 +5,30 @@ Requirements
 Node.js v14 or higher
 ErgoPay account
 Nautilus wallet
+
 Installation
+
 Clone the repository:
-sh
 Copy code
 git clone https://github.com/buddychatfreedom/ergotreon.git
+
 Install the dependencies:
-sh
 Copy code
 cd ergotreon
 npm install
+
 Create a .env file with the following content:
-makefile
+
 Copy code
 ERGOPAY_API_KEY=your_api_key_here
 ERGOPAY_API_SECRET=your_api_secret_here
+
 Start the server:
-sh
 Copy code
 npm run start
+
 Open http://localhost:3000 in your web browser.
+
 Usage
 To create a new project, click the "Create Project" button and fill in the required fields.
 To fund a project, click the "Fund" button on a project's page and enter the amount of Ergo you wish to contribute.
